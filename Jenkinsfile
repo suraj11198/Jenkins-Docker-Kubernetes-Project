@@ -6,8 +6,8 @@ pipeline {
 	
 	environment {
 		PROJECT_ID = 'gke-deployment-362011'
-                CLUSTER_NAME = 'nodejs-cluster'
-                LOCATION = 'us-central1-c'
+                CLUSTER_NAME = 'cluster-1'
+                LOCATION = 'northamerica-northeast1-a'
                 CREDENTIALS_ID = 'Kubernetes'		
 	}
 	
